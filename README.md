@@ -20,6 +20,20 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="graphql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-raj7011/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Gauravvgithub">
+    <img src="https://img.shields.io/badge/GitHub-Gauravvgithub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:gauravraj7011@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Gauravvgithub&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
+
+
 <!-- | <a href="https://github.com/Gauravvgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Gauravvgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=buefy&hide_border=true" /></a> | -->
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&theme=buefy&hide_border=true)
