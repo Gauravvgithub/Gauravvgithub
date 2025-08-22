@@ -18,8 +18,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="graphql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <!-- | <a href="https://github.com/Gauravvgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Gauravvgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=buefy&hide_border=true" /></a> | -->
 
@@ -27,7 +26,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <br />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=buefy&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=buefy&hide_border=true)
 
 <br />
 
@@ -37,7 +36,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&theme=buefy&hide_border=false" 
     alt="GitHub Stats"
-    width="100%"
+    width="80%"
+    height="50%"
     style="border-radius: 10px;" 
   />
 </p>
@@ -46,7 +46,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=buefy&hide_border=false" 
     alt="Top Languages"
-    width="100%"
+        width="80%"
+    height="50%"
     style="border-radius: 10px;" 
   />
 </p>
@@ -55,16 +56,15 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
   <img 
     src="https://streak-stats.demolab.com?user=Gauravvgithub&theme=buefy&hide_border=false" 
     alt="GitHub Streak"
-    width="100%"
+        width="80%"
+    height="50%"
     style="border-radius: 10px;" 
   />
 </p>
 
-
 <br />
 
 #### Top Repositories
-
 
 <a href="https://github.com/Gauravvgithub/yt-clone-react-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gauravvgithub&repo=yt-clone-react-js&theme=buefy" />
@@ -75,7 +75,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <br />
 <br />
-
 
 <a href="https://www.linkedin.com/in/gaurav-raj7011/" target="_blank">
   <img 
