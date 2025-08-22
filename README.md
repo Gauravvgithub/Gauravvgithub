@@ -23,7 +23,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <!-- | <a href="https://github.com/Gauravvgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Gauravvgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=buefy&hide_border=true" /></a> | -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&theme=buefy&hide_border=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&theme=buefy&hide_border=true)
 
 <br />
 
@@ -31,7 +31,32 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <br />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Gauravvgithub&theme=buefy&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gauravvgithub&theme=buefy&hide_border=true) -->
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&theme=buefy&hide_border=false" 
+    alt="GitHub Stats"
+    style="border: 1px solid white; border-radius: 10px;" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=buefy&hide_border=false" 
+    alt="Top Languages"
+    style="border: 1px solid white; border-radius: 10px;" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Gauravvgithub&theme=buefy&hide_border=false" 
+    alt="GitHub Streak"
+    style="border: 1px solid white; border-radius: 10px;" 
+  />
+</p>
+
 
 <br />
 
