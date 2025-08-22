@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Gaurav+%F0%9F%91%8B;FrontEnd+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;React+%2B+Next.js+Enthusiast;Developer+by+Logic+%2C+Creator+by+Passion" alt="Typing SVG" />
+  <a href="https://my-portfolio-gaurav-seven.vercel.app/">
+    <img width="80%" alt="Hello, I'm Gaurav. Developer by logic, creator by passion!" src="./assets/gh-readme-header.png" />
   </a>
 </p>
 
