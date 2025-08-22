@@ -38,7 +38,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
     src="https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&theme=buefy&hide_border=false" 
     alt="GitHub Stats"
     width="100%"
-    style="border: 1px solid white; border-radius: 10px;" 
+    style="border-radius: 10px;" 
   />
 </p>
 
@@ -47,7 +47,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=buefy&hide_border=false" 
     alt="Top Languages"
     width="100%"
-    style="border: 1px solid white; border-radius: 10px;" 
+    style="border-radius: 10px;" 
   />
 </p>
 
@@ -56,7 +56,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
     src="https://streak-stats.demolab.com?user=Gauravvgithub&theme=buefy&hide_border=false" 
     alt="GitHub Streak"
     width="100%"
-    style="border: 1px solid white; border-radius: 10px;" 
+    style="border-radius: 10px;" 
   />
 </p>
 
