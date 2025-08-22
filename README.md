@@ -2,23 +2,39 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+# 👋 Hey, I'm Gaurav  
+💻 A self-taught & passionate **FrontEnd Developer** from India 🇮🇳  
 
-**About me**
+---
 
-- 💼 FrontEnd Developer at [National Marketing Projects Inc ](https://nationalmarketingprojects.com/)
+## 🌟 About Me  
 
-- 📈 Built Pingora Chat App, Search Architect and more, **10** hits • **30+** stars on GitHub
+- 💼 Currently working as a **FrontEnd Developer** at [National Marketing Projects Inc](https://nationalmarketingprojects.com/)  
+- 📈 Built **Pingora Chat App**, **Search Architect**, and more  
+  > ⭐ 40+ GitHub Stars • 👀 10+ Project Hits  
+- ❤️ Love writing **React** and experimenting with type-level fun  
+- 💬 Open to collaboration → [Ask me anything here](https://github.com/Gauravvgithub/Gauravvgithub/issues)  
 
-- ❤️ I love writing React, and building fun experiments on type-level
+---
 
-- 💬 Ask me about anything [here](https://github.com/Gauravvgithub/Gauravvgithub/issues)
+## 🛠️ Tech Stack  
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<p>
+  <code><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> </code>
+  <code><img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"> </code>
+  <code><img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> </code>
+  <code><img height="30" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> </code>
+  <code><img height="30" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> </code>
+</p>
+
+---
+
+## 🎨 Fun Facts  
+
+- 🌱 Always learning & improving  
+- 🎧 Love coding with music  
+- ⚡ Coffee + Code = ❤️  
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-raj7011/">
@@ -90,11 +106,4 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <br />
 <br />
 
-<a href="https://www.linkedin.com/in/gaurav-raj7011/" target="_blank">
-  <img 
-    align="right" 
-    alt="Gaurav | Linkedin" 
-    width="20px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-  />
-</a>
+
