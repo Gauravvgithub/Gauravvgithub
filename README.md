@@ -85,9 +85,13 @@
 
 ## 🐍 Contribution Snake  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Gauravvgithub/Gauravvgithub/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</p> -->
+
+![GitHub Snake Light](https://github.com/Gauravvgithub/Gauravvgithub/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Gauravvgithub/Gauravvgithub/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 ---
 
