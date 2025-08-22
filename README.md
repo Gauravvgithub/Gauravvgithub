@@ -1,109 +1,111 @@
-<p align="center"><a href="https://my-portfolio-gaurav-seven.vercel.app/"><img width="80%" alt="Hello, I'm Gaurav. Developer by logic, creator by passion!" src="./assets/gh-readme-header.png" /></a></p>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Gaurav+%F0%9F%91%8B;FrontEnd+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;React+%2B+Next.js+Enthusiast;Developer+by+Logic+%2C+Creator+by+Passion" alt="Typing SVG" />
+  </a>
+</p>
 
-<br />
+---
 
 # 👋 Hey, I'm Gaurav  
-💻 A self-taught & passionate **FrontEnd Developer** from India 🇮🇳  
+
+💻 A **self-taught FrontEnd Developer** from India 🇮🇳  
+✨ Developer by **logic**, creator by **passion**  
 
 ---
 
 ## 🌟 About Me  
 
-- 💼 Currently working as a **FrontEnd Developer** at [National Marketing Projects Inc](https://nationalmarketingprojects.com/)  
-- 📈 Built **Pingora Chat App**, **Search Architect**, and more  
+- 💼 Currently: **FrontEnd Developer** at [National Marketing Projects Inc](https://nationalmarketingprojects.com/)  
+- 🚀 Built: **Pingora Chat App**, **Search Architect**, **YT Clone**, **Portfolio**  
   > ⭐ 40+ GitHub Stars • 👀 10+ Project Hits  
-- ❤️ Love writing **React** and experimenting with type-level fun  
-- 💬 Open to collaboration → [Ask me anything here](https://github.com/Gauravvgithub/Gauravvgithub/issues)  
+- ❤️ Love crafting **beautiful UIs** with React, Next.js, and Tailwind  
+- 🌍 Believer in **Open Source & Sharing Knowledge**  
+- 💬 Let’s collaborate → [Ask me anything](https://github.com/Gauravvgithub/Gauravvgithub/issues)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<p>
-  <code><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> </code>
-  <code><img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"> </code>
-  <code><img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> </code>
-  <code><img height="30" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> </code>
-  <code><img height="30" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> </code>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,tailwind,bootstrap,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats"
+    width="60%" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+    width="60%" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Gauravvgithub&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+    width="60%" 
+  />
+</p>
+
+---
+
+## 📌 Top Projects  
+
+<p align="center">
+  <a href="https://github.com/Gauravvgithub/yt-clone-react-js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gauravvgithub&repo=yt-clone-react-js&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Gauravvgithub/my_portfolio_gaurav">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gauravvgithub&repo=my_portfolio_gaurav&theme=tokyonight" />
+  </a>
 </p>
 
 ---
 
 ## 🎨 Fun Facts  
 
-- 🌱 Always learning & improving  
-- 🎧 Love coding with music  
-- ⚡ Coffee + Code = ❤️  
+- 🌱 Always learning something new  
+- 🎧 Coding + Music = 💡 best ideas  
+- ⚡ Coffee is my second programming language  
+- 🎯 Motto: *“Build. Break. Learn. Repeat.”*  
 
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/Gauravvgithub/Gauravvgithub/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-raj7011/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Gauravvgithub">
-    <img src="https://img.shields.io/badge/GitHub-Gauravvgithub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Gauravvgithub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:gauravraj7011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Gauravvgithub&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Gauravvgithub&style=for-the-badge&color=blue" />
 </p>
 
+---
 
-<!-- | <a href="https://github.com/Gauravvgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Gauravvgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=buefy&hide_border=true" /></a> | -->
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&theme=buefy&hide_border=true)
-
-<br />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=buefy&hide_border=true)
-
-<br />
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Gauravvgithub&theme=buefy&hide_border=true) -->
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Gauravvgithub&show_icons=true&theme=buefy&hide_border=false" 
-    alt="GitHub Stats"
-    width="60%"
-    height="60%"
-    style="border-radius: 10px;" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravvgithub&layout=compact&theme=buefy&hide_border=false" 
-    alt="Top Languages"
-        width="60%"
-    height="60%"
-    style="border-radius: 10px;" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Gauravvgithub&theme=buefy&hide_border=false" 
-    alt="GitHub Streak"
-        width="60%"
-    height="60%"
-    style="border-radius: 10px;" 
-  />
-</p>
-
-<br />
-
-#### Top Repositories
-
-<a href="https://github.com/Gauravvgithub/yt-clone-react-js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gauravvgithub&repo=yt-clone-react-js&theme=buefy" />
-</a>
-<a href="https://github.com/Gauravvgithub/my_portfolio_gaurav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gauravvgithub&repo=my_portfolio_gaurav&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-
+✨ *Thanks for visiting my profile — Let’s build something awesome together!* 🚀
