@@ -1,7 +1,7 @@
-# 💻 Pushpraj Dwivedi — Full-Stack & DevOps Engineer  
+# 💻 Gaurav — Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/Gauravvgithub)
-[![GitHub](https://img.shields.io/badge/GitHub-pushpraj--rmx-black?style=flat-square&logo=github)](https://github.com/Gauravvgithub)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-push-black?style=flat-square&logo=github)](https://github.com/Gauravvgithub) -->
 <!-- [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:pushprajdwivedi001@gmail.com) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Gauravvgithub&style=flat-square&color=blue)
 
@@ -25,25 +25,25 @@ I love turning complex requirements into **clean, efficient, and high-impact sol
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+<!-- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<!-- ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) -->
 
 **Database**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
+<!-- 
 **DevOps & Tools**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=githubactions&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS%20Management-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS%20Management-232F3E?style=flat-square&logo=amazonaws&logoColor=white) -->
 
 ---
 
-## 📂 Featured Projects  
+<!-- ## 📂 Featured Projects  
 
 ### 📌 WhatsSuite Backend  
 _TypeScript + Prisma backend for scalable WhatsApp Business API integrations with Redis caching and authentication._  
@@ -61,7 +61,7 @@ _NestJS + React project with analytics and modular architecture for easy scaling
 _Node.js + JSON storage (PostgreSQL-ready) with full CRUD, image uploads, and admin control panel._  
 🔗 [GitHub Repo](https://github.com/Gauravvgithub) | 🛠 Tech: Node.js, EJS, Multer
 
----
+--- -->
 
 ## 📈 GitHub Stats  
 
@@ -72,7 +72,7 @@ _Node.js + JSON storage (PostgreSQL-ready) with full CRUD, image uploads, and ad
 ---
 
 ## 📌 What I’m Looking For  
-Remote or hybrid **Full-Stack / DevOps Engineer** role in a **mid-to-large company**.  
+Remote or hybrid **Full-Stack Developer** role in a **mid-to-large company**.  
 Opportunities to work with **modern tech stacks, collaborative teams, and impactful projects**.
 
 ---
@@ -80,4 +80,4 @@ Opportunities to work with **modern tech stacks, collaborative teams, and impact
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/Gauravvgithub)  
 [![GitHub](https://img.shields.io/badge/GitHub-pushpraj--rmx-black?style=flat-square&logo=github)](https://github.com/Gauravvgithub)  
-<!-- 📧 Email: pushprajdwivedi001@gmail.com -->
+📧 Email: gauravraj7011@gmail.com
