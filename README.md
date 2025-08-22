@@ -27,8 +27,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Top Repositories
 
 
-<a href="https://github.com/Gauravvgithub/pingora">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gauravvgithub&repo=pingora&theme=buefy" />
+<a href="https://github.com/Gauravvgithub/yt-clone-react-js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gauravvgithub&repo=yt-clone-react-js&theme=buefy" />
 </a>
 <a href="https://github.com/Gauravvgithub/my_portfolio_gaurav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gauravvgithub&repo=my_portfolio_gaurav&theme=buefy" />
