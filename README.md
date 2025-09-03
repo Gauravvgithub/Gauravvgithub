@@ -17,7 +17,11 @@
 ## 🌟 About Me  
 
 - 💼 Currently: **FrontEnd Developer** at [National Marketing Projects Inc](https://nationalmarketingprojects.com/)  
-- 🚀 Built: **Pingora Chat App**, **Search Architect**, **YT Clone**, **Portfolio**  
+- 🚀 Built: 
+  - [Pingora Chat App](https://pingora-app.com)  
+  - [Search Architect](https://search-architect.com)  
+  - [YT Clone](https://yt-clone.com)  
+  - [Portfolio](https://your-portfolio.com)  
   > ⭐ 40+ GitHub Stars • 👀 10+ Project Hits  
 - ❤️ Love crafting **beautiful UIs** with React, Next.js, and Tailwind  
 - 🌍 Believer in **Open Source & Sharing Knowledge**  
