@@ -18,10 +18,11 @@
 
 - 💼 Currently: **FrontEnd Developer** at [National Marketing Projects Inc](https://nationalmarketingprojects.com/)  
 - 🚀 Built: 
-  - [Pingora Chat App](https://pingora-app.com)  
-  - [Search Architect](https://search-architect.com)  
-  - [YT Clone](https://yt-clone.com)  
-  - [Portfolio](https://your-portfolio.com)  
+  - [Pingora Chat App](https://pingora-tosy.onrender.com)  
+  - [Search Architect](https://searcharchitect.com)  
+  - [YT Clone](https://yt-clone-react-js.vercel.app)  
+  - [Portfolio](https://my-portfolio-gaurav-seven.vercel.app)
+  - [Soaltee Group](https://soaltee-group.onrender.com/)
   > ⭐ 40+ GitHub Stars • 👀 10+ Project Hits  
 - ❤️ Love crafting **beautiful UIs** with React, Next.js, and Tailwind  
 - 🌍 Believer in **Open Source & Sharing Knowledge**  
