@@ -9,7 +9,7 @@
 
 # 👋 Hey, I'm Gaurav  
 
-💻 A **self-taught FrontEnd Developer** from India 🇮🇳  
+💻 A **self-taught Full Stack Developer** from India 🇮🇳  
 ✨ Developer by **logic**, creator by **passion**  
 
 ---
