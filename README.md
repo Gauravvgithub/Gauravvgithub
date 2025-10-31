@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://my-portfolio-gaurav-seven.vercel.app/">
+  <a href="https://gaurav-developer-portfolio.vercel.app/">
     <img width="80%" alt="Hello, I'm Gaurav. Developer by logic, creator by passion!" src="./assets/gh-readme-header.png" />
   </a>
 </p>
